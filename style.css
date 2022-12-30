@@ -1,0 +1,66 @@
+.row{
+    padding:5rem;
+    background-color: black;
+}
+.text{
+    font-weight: 150px;
+    font-size: 120px;
+    animation: fade 2s;
+}
+.col-6 img{
+    width: 500px;
+    height: 300px;
+    margin-top: 200px;
+}
+i{
+    color: white;
+    
+}
+#aboutus{
+    background-color: white;
+}
+.card:hover{
+    background-color: black;
+    color: white;
+    cursor:pointer;
+}
+.contact h1{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+.contact{
+    background-color: black;
+    padding: 6rem 8rem;
+}
+.contact input{
+   width: 100%;
+   padding: 15px 5px;
+   margin-bottom: 15px;
+   color: white;
+   background-color: black;
+   border: 1px solid white;
+}
+.contact button{
+    padding: 10px 15px;
+    margin-bottom: 15px;
+    cursor:pointer;
+}
+#simple{
+    background-color: black !important;
+    border: 1px solid white;
+
+    
+
+}
+#item{
+    color: white;
+}
+.card-group{
+    padding: 40px;
+    margin-bottom: 50px;
+    display: grid;
+    row-gap: 10px;
+}
+
+
